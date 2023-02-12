@@ -1,5 +1,6 @@
+updated developer1 resources
 
-
+it is a pull command by using these repository
 
 this is git repository in project3 file
 
